@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://TenaciousPub.github.io/arc-crew-past-outings/sitemap.xml
